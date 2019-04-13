@@ -35,6 +35,7 @@ table(avisos_fun$date)
     
 ####### get useful rows
 avisos_fun_ok = avisos_fun[substr(avisos_fun$aviso,1,1)=='†',]
+write.table(avisos_fun_ok, 'example_avisos.txt', sep=';')
 
 ####### get names
 avisos_fun_ok$names = substr(avisos_fun$aviso, 3,
