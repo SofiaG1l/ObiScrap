@@ -3,7 +3,7 @@
 
 Dear visitor, 
 
-I am working on this project in conjunction with [Ivan William](https://github.com/IvanWilli "IvanWilli"). The updated project is in his [repository](https://github.com/IvanWilli/ObiScrap "ObiScrap").
+I am working on this project in conjunction with [Ivan William](https://github.com/IvanWilli "IvanWilli"). The updated project is in his [repository](https://github.com/IvanWilli/Obi_Scrap "ObiScrap").
 
 Regards,
 Sofia
