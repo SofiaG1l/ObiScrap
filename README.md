@@ -1,4 +1,4 @@
-# ObiScrap
+# Obit_Scrape
 ## Web scrapping to estudy death coverage in small areas.
 
 Dear visitor, 
